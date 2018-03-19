@@ -1,0 +1,33 @@
+.navbar {
+    border-radius: 0 !important;
+}
+.navbar-nav>li>a {
+    padding-bottom: 10px !important;;
+}
+.details li {
+  list-style: none;
+}
+
+.full-width{
+  width: 100% !important;
+}
+.img-box {
+    display: inline-block;
+    overflow: hidden;
+    line-height: 1;
+    vertical-align: middle;
+    border-radius: 3px;
+    width: 230px;
+    height: auto;
+    margin-top: 20px;
+}
+.img-box-small {
+    display: inline-block;
+    width: 30px;
+    margin-right: 3px;
+    height: auto;
+}
+.repo-detail-box{
+  border: 1px #e1e4e8 solid !important;
+  padding: 15px;
+}
